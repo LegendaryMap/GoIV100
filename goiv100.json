@@ -1,7 +1,7 @@
 {
-  "versionCode":3,
+  "versionCode":108,
   "versionName":"1.0.8",
-  "contentText":"Please update your app",
+  "contentText":"Please Update to the new version",
   "minSupport":2,
-  "url":"goiv100"
+  "url":"https://github.com/LegendaryMap/GoIV100/releases/download/apks/goiv100.apk"
 }
